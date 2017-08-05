@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/wuli133144/unix805.svg?branch=master)](https://travis-ci.org/wuli133144)
+
 ## About
 *this project about pthread pool
 
